@@ -41,7 +41,7 @@ Os materiais serão publicados gradualmente conforme o avanço das aulas:
 | **01** | Introdução ao Node.js e Primeiro Script   | [Disponível](./Aula01/README.md)       |
 | **02** | Módulos, `require` e `npm`                | [Disponível](./Aula02/README.md)       |
 | **03** | Introdução ao Express e Primeiro Servidor | [Disponível](./Aula03/README.md)       |
-| **04** | Middlewares no Express                    | *(Disponibilizado após a aula)*        |
+| **04** | Middlewares no Express                    | [Disponível](./Aula04/README.md)       |
 | **05** | Bancos de Dados com PostgreSQL            | *(Disponibilizado após a aula)*        |
 | **06** | Conexão da API com PostgreSQL             | *(Disponibilizado após a aula)*        |
 | **07** | Operações CRUD Completas                  | *(Disponibilizado após a aula)*        |
