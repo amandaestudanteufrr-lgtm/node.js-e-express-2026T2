@@ -42,7 +42,7 @@ Os materiais serão publicados gradualmente conforme o avanço das aulas:
 | **02** | Módulos, `require` e `npm`                | [Disponível](./Aula02/README.md)       |
 | **03** | Introdução ao Express e Primeiro Servidor | [Disponível](./Aula03/README.md)       |
 | **04** | Middlewares no Express                    | [Disponível](./Aula04/README.md)       |
-| **05** | Bancos de Dados com PostgreSQL            | *(Disponibilizado após a aula)*        |
+| **05** | Bancos de Dados com PostgreSQL            | [Disponível](./Aula05/README.md)       |
 | **06** | Conexão da API com PostgreSQL             | *(Disponibilizado após a aula)*        |
 | **07** | Operações CRUD Completas                  | *(Disponibilizado após a aula)*        |
 | **08** | Autenticação com JWT                      | *(Disponibilizado após a aula)*        |
@@ -50,6 +50,14 @@ Os materiais serão publicados gradualmente conforme o avanço das aulas:
 | **10** | Documentação de APIs com Swagger          | *(Disponibilizado após a aula)*        |
 
 ---
+
+## 📝 Avaliação A1 — Atividade Prática
+
+A avaliação **A1** já está disponível para envio! Esta atividade prática consolida todo o conteúdo estudado até a **Aula 04** (módulos, Express, métodos HTTP, parâmetros e middlewares).
+
+* **Como fazer:** Escolha um dos níveis de desafio (Básico, Intermediário, Avançado ou Jedi), desenvolva a solução e envie via Fork e Pull Request.
+* 👉 **Consulte as instruções completas de entrega:** [Guia de Entrega da Avaliação A1](./Atividades-A1/README.md)
+* 💡 **Dúvidas frequentes de Git/GitHub:** [Guia de Resolução de Problemas (Troubleshooting)](./Atividades-A1/TROUBLESHOOTING.md)
 
 ## 💡 Como Usar este Repositório
 
